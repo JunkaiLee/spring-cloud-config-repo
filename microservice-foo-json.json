@@ -1,6 +1,6 @@
 {
-  user-name: victor,
-  sex: male,
-  age: 23
+  "name" : "victor",
+  "sex" : "male",
+  "age" : "23"
 }
   
